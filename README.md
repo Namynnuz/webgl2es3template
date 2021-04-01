@@ -1,5 +1,7 @@
-WebGL2 ES3.0 Template (for VS Code)
+Phaser 3.5 WebGL2 ES 3.0 Template (for VS Code)
 ====
+
+Original js example doesn't actually provide you information about using ES 3.0 shaders with WebGL2 canvas. This repo will do. It also provides you the way to debug ts-code properly.
 
 After cloning this repo, install dependencies, then open it via VS Code:
 
